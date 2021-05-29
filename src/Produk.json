@@ -1,0 +1,67 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "tiffany",
+    "name": "Lake's Gaming Store",
+    "color": "APEX Legend",
+    "price": "Rp300.000",
+    "priceCurrency": "IDR",
+    "image":"https://image.api.playstation.com/vulcan/img/rnd/202104/2215/BEGKDmZkfv91uyDHT6n357RK.png?w=1920&thumb=false",
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "Rp300.000",
+      "highPrice": "Rp300.000",
+      "priceCurrency": "IDR",
+      "offerCount": "6",
+      "offers": [
+        {
+          "@type": "Offer",
+          "color": "Grand Theft Auto V",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image":"https://www.bing.com/th?id=AMMS_88013296954b21cc55b8389aed7caa36&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Fortnite",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.bing.com/th?id=AMMS_2017013267de8182708c65ce2dff8c85&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Five Nights at Freddy's",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.bing.com/th?id=AMMS_f439c216d7a70d4300645d4a5c3a31a1&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "nama": "World of Tanks",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.bing.com/th?id=AMMS_a7383dbc60d391601eb037f0e4810dfc&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Minecraft",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.bing.com/th?id=AMMS_27d983627a361a39c3a3e2aff8ad5920&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "FIFA 21",
+          "price": "Rp300.000",
+          "priceCurrency": "IDR",
+          "image": "https://th.bing.com/th/id/OIP.kf-yiCrpcHkKyOZsHT461AHaFj?w=231&h=180&c=7&o=5&pid=1.7",
+          "availability": "https://schema.org/InStock"          
+        }
+      ]
+    }
+  }
